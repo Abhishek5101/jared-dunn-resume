@@ -30,3 +30,7 @@ body{
     display: flex;
     flex-flow: column;
 }
+
+.quotes {
+    margin-left: 40px;
+}
